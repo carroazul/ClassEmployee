@@ -1,7 +1,5 @@
 // Employee implements program //
-
 package disagn;
-
 class Employee {
     //attributes of Employee class
     private String firstName;
